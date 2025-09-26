@@ -1,0 +1,1 @@
+/home/ramon/.config/omarchy/current/theme/neovim.lua
